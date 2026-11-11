@@ -1,0 +1,15 @@
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/yurilopess/saga-orchestration-order-service.git
+[submodule "orchestrator-service"]
+	path = orchestrator-service
+	url = https://github.com/yurilopess/saga-orchestration-orchestrator-service.git
+[submodule "product-validation-service"]
+	path = product-validation-service
+	url = https://github.com/yurilopess/saga-orchestration-product-validation-service.git
+[submodule "payment-service"]
+	path = payment-service
+	url = https://github.com/yurilopess/saga-orchestration-payment-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/yurilopess/saga-orchestration-inventory-service.git

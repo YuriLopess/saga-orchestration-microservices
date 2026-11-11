@@ -1,0 +1,9 @@
+# Dados persistidos pelos containers (docker-compose)
+data/
+
+# IDE / SO
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
